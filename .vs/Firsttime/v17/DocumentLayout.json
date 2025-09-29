@@ -3,20 +3,92 @@
   "WorkspaceRootPath": "F:\\F\\Firsttime\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\implementations\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\implementations\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\dtos\\userdtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dtos\\userdtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006DA898-978A-4305-8031-D922B09CE3C5}|EV_Driver\\EV_Driver.csproj|f:\\f\\firsttime\\ev_driver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006DA898-978A-4305-8031-D922B09CE3C5}|EV_Driver\\EV_Driver.csproj|solutionrelative:ev_driver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\interfaces\\itokenstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\interfaces\\itokenstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\dtos\\userdtos\\userstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dtos\\userdtos\\userstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\dtos\\userdtos\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dtos\\userdtos\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\dtos\\userdtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dtos\\userdtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\dtos\\userdtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dtos\\userdtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006DA898-978A-4305-8031-D922B09CE3C5}|EV_Driver\\EV_Driver.csproj|f:\\f\\firsttime\\ev_driver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006DA898-978A-4305-8031-D922B09CE3C5}|EV_Driver\\EV_Driver.csproj|solutionrelative:ev_driver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{006DA898-978A-4305-8031-D922B09CE3C5}|EV_Driver\\EV_Driver.csproj|f:\\f\\firsttime\\ev_driver\\ev_driver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{006DA898-978A-4305-8031-D922B09CE3C5}|EV_Driver\\EV_Driver.csproj|solutionrelative:ev_driver\\ev_driver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\extensions\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\extensions\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|f:\\f\\firsttime\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94C5D22A-1336-4ACD-B4B0-B2BB701CBB5D}|Service\\Service.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|f:\\f\\firsttime\\businessobject\\enums\\userenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015459A9-A4D9-4157-92CD-217490EDD69C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\enums\\userenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +98,271 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Dtos\\UserDtos\\RegisterDto.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\RegisterDto.cs",
+              "RelativeToolTip": "BusinessObject\\Dtos\\UserDtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:39:07.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Dtos\\UserDtos\\AuthResponseDto.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\AuthResponseDto.cs",
+              "RelativeToolTip": "BusinessObject\\Dtos\\UserDtos\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:42:43.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\AuthService.cs",
+              "ToolTip": "F:\\F\\Firsttime\\Service\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Service\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:47:36.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Entities\\User.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Entities\\User.cs",
+              "RelativeToolTip": "BusinessObject\\Entities\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:21:10.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service",
+              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "F:\\F\\Firsttime\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T16:45:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Implementations\\JwtService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\JwtService.cs",
+              "ToolTip": "F:\\F\\Firsttime\\Service\\Implementations\\JwtService.cs",
+              "RelativeToolTip": "Service\\Implementations\\JwtService.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:46:42.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IJwtService.cs",
+              "ToolTip": "F:\\F\\Firsttime\\Service\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:56:12.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Dtos\\UserDtos\\LoginDto.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\LoginDto.cs",
+              "RelativeToolTip": "BusinessObject\\Dtos\\UserDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:11:38.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IAuthService.cs",
+              "ToolTip": "F:\\F\\Firsttime\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:52:35.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\EV_Driver\\Program.cs",
+              "RelativeDocumentMoniker": "EV_Driver\\Program.cs",
+              "ToolTip": "F:\\F\\Firsttime\\EV_Driver\\Program.cs",
+              "RelativeToolTip": "EV_Driver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:08:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITokenStorageService.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Interfaces\\ITokenStorageService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ITokenStorageService.cs",
+              "ToolTip": "F:\\F\\Firsttime\\Service\\Interfaces\\ITokenStorageService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ITokenStorageService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA4wC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:04:47.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IEmailService.cs",
+              "ToolTip": "F:\\F\\Firsttime\\Service\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:04:03.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "F:\\F\\Firsttime\\Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:57:36.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserStatisticsDto.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\UserStatisticsDto.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Dtos\\UserDtos\\UserStatisticsDto.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\UserStatisticsDto.cs",
+              "RelativeToolTip": "BusinessObject\\Dtos\\UserDtos\\UserStatisticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:02:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Dtos\\UserDtos\\PaginatedResult.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\PaginatedResult.cs",
+              "RelativeToolTip": "BusinessObject\\Dtos\\UserDtos\\PaginatedResult.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:00:51.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Dtos\\UserDtos\\UserProfileDto.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\UserProfileDto.cs",
+              "RelativeToolTip": "BusinessObject\\Dtos\\UserDtos\\UserProfileDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:59:45.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Dtos\\UserDtos\\UpdateProfileDto.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Dtos\\UserDtos\\UpdateProfileDto.cs",
+              "RelativeToolTip": "BusinessObject\\Dtos\\UserDtos\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:59:07.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\EV_Driver\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EV_Driver\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\F\\Firsttime\\EV_Driver\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EV_Driver\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:48:52.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BusinessObject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:50:23.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnumExtensions.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Extensions\\EnumExtensions.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Extensions\\EnumExtensions.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Extensions\\EnumExtensions.cs",
+              "RelativeToolTip": "BusinessObject\\Extensions\\EnumExtensions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:43:52.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "BusinessObject",
               "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\BusinessObject.csproj",
               "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
@@ -38,46 +370,20 @@
               "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-14T15:20:34.14Z",
+              "WhenOpened": "2025-09-29T16:20:15.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EV_Driver",
-              "DocumentMoniker": "F:\\F\\Firsttime\\EV_Driver\\EV_Driver.csproj",
-              "RelativeDocumentMoniker": "EV_Driver\\EV_Driver.csproj",
-              "ToolTip": "F:\\F\\Firsttime\\EV_Driver\\EV_Driver.csproj",
-              "RelativeToolTip": "EV_Driver\\EV_Driver.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-14T15:18:40.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "F:\\F\\Firsttime\\Service\\Class1.cs",
-              "RelativeDocumentMoniker": "Service\\Class1.cs",
-              "ToolTip": "F:\\F\\Firsttime\\Service\\Class1.cs",
-              "RelativeToolTip": "Service\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "UserEnums.cs",
+              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Enums\\UserEnums.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Enums\\UserEnums.cs",
+              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Enums\\UserEnums.cs",
+              "RelativeToolTip": "BusinessObject\\Enums\\UserEnums.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T15:16:19.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "F:\\F\\Firsttime\\BusinessObject\\Class1.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\Class1.cs",
-              "ToolTip": "F:\\F\\Firsttime\\BusinessObject\\Class1.cs",
-              "RelativeToolTip": "BusinessObject\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T15:15:49.828Z",
+              "WhenOpened": "2025-09-29T16:35:08.63Z",
               "EditorCaption": ""
             }
           ]
