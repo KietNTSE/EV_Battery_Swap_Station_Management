@@ -1,11 +1,3 @@
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.csproj.AssemblyReference.cache
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\rpswa.dswa.cache.json
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.GeneratedMSBuildEditorConfig.editorconfig
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.AssemblyInfoInputs.cache
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.AssemblyInfo.cs
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.csproj.CoreCompileInputs.cache
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.MvcApplicationPartsAssemblyInfo.cache
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.sourcelink.json
 F:\F\Firsttime\EV_Driver\bin\Debug\net9.0\appsettings.Development.json
 F:\F\Firsttime\EV_Driver\bin\Debug\net9.0\appsettings.json
 F:\F\Firsttime\EV_Driver\bin\Debug\net9.0\EV_Driver.staticwebassets.endpoints.json
@@ -97,7 +89,15 @@ F:\F\Firsttime\EV_Driver\bin\Debug\net9.0\BusinessObject.dll
 F:\F\Firsttime\EV_Driver\bin\Debug\net9.0\Service.dll
 F:\F\Firsttime\EV_Driver\bin\Debug\net9.0\Service.pdb
 F:\F\Firsttime\EV_Driver\bin\Debug\net9.0\BusinessObject.pdb
+F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.csproj.AssemblyReference.cache
+F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.GeneratedMSBuildEditorConfig.editorconfig
+F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.AssemblyInfoInputs.cache
+F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.AssemblyInfo.cs
+F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.csproj.CoreCompileInputs.cache
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.MvcApplicationPartsAssemblyInfo.cs
+F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.MvcApplicationPartsAssemblyInfo.cache
+F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.sourcelink.json
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\rjimswa.dswa.cache.json
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -106,7 +106,6 @@ F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\staticwebassets.build.json
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\staticwebassets.build.json.cache
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\staticwebassets.development.json
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.csproj.Up2Date
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\EV_Driver.dll
 F:\F\Firsttime\EV_Driver\obj\Debug\net9.0\refint\EV_Driver.dll
